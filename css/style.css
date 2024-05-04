@@ -1,0 +1,31 @@
+body{
+    opacity: .6;
+}
+.who{
+    text-align: center;
+    margin-bottom: 35px;
+    font-family: "Pacifico", cursive;
+    font-weight: 900;
+    font-size: larger;
+}
+.power{
+    background-image: url(../img/5544eedd-bf96-4ab3-9baa-2a1793133d76.jpeg);
+    background-size: cover;
+    position: relative;
+    height: 270px;
+    text-align: center;
+}
+.power pre{
+    background-color: rgb(163, 163, 163);
+    position: absolute;
+    top:60%;
+    right: 40%;
+    color: white;
+    font-weight: bold;
+    font-family: "Arimo", sans-serif;
+    padding: 15px;
+    transform: skew(-10deg);
+    width: 300px;
+    
+    
+} 
